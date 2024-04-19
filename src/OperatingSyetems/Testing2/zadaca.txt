@@ -1,0 +1,7 @@
+napraj matrica u koja treba da se najde u sekoja redica (horizontalno) kje se najde koj e najgolemio broj,
+ i kje se ispecate
+od strana na taj thread so go e najdel, isto taka kje se najde koj red ima najgolema suma i  taj red kje se ispecate
+u maino, tredo so najgolema suma treba da ja pomine glavnata dijagonala.
+Napravete matricata prvo da se popolne od strana na tredovi taka so sekoj thread kje popolnuva po edna kolona
+so Random().nextInt(10).Neka ima target i broevite pred i posle targer (ako postojat) neka se konkatanirat u string
+Sekoj thread neka ima id so kje si go ispecate sam za da gledate u koj redosled se pecatat
